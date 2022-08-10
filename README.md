@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" width="200" height="200">
+</p>
 <h1 align="center">Yenno</h1>
 Yenno helps ML related lab dynamically try different deployment options on their own kubernetes cluster.
 [Work In Progress]
