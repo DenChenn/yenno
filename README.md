@@ -17,4 +17,3 @@ ex: Federated learning local Services
 - [ ] CPU memory consumption graph
 - [ ] Model performance graph
 - [ ] Endpoint expose with generated url (subdomain)
-- [ ] Still adding...
